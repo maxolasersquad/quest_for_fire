@@ -1,0 +1,67 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator opf:role="aut" opf:file-as="Boex, Joseph Henri">Joseph Henri Boex</dc:creator>
+    <dc:title>The Quest For Fire</dc:title>
+    <dc:publisher>Pantheon Books</dc:publisher>
+    <dc:date opf:event="publication">1911</dc:date>
+    <dc:rights>Public Domain</dc:rights>
+    <dc:source>http://www.bouquineux.com/index.php?telecharger=2679&amp;Rosny_aine-La_Guerre_du_feu</dc:source>
+    <dc:identifier id="uid">urn:isbn:978-0345300676</dc:identifier>
+    <dc:language>fr</dc:language>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="chapter1-1.html" id="chapter-1-1" media-type="application/xhtml+xml"/>
+    <item href="chapter1-2.html" id="chapter-1-2" media-type="application/xhtml+xml"/>
+    <item href="chapter1-3.html" id="chapter-1-3" media-type="application/xhtml+xml"/>
+    <item href="chapter1-4.html" id="chapter-1-4" media-type="application/xhtml+xml"/>
+    <item href="chapter1-5.html" id="chapter-1-5" media-type="application/xhtml+xml"/>
+    <item href="chapter1-6.html" id="chapter-1-6" media-type="application/xhtml+xml"/>
+    <item href="chapter2-1.html" id="chapter-2-1" media-type="application/xhtml+xml"/>
+    <item href="chapter2-2.html" id="chapter-2-2" media-type="application/xhtml+xml"/>
+    <item href="chapter2-3.html" id="chapter-2-3" media-type="application/xhtml+xml"/>
+    <item href="chapter2-4.html" id="chapter-2-4" media-type="application/xhtml+xml"/>
+    <item href="chapter2-5.html" id="chapter-2-5" media-type="application/xhtml+xml"/>
+    <item href="chapter2-6.html" id="chapter-2-6" media-type="application/xhtml+xml"/>
+    <item href="chapter2-7.html" id="chapter-2-7" media-type="application/xhtml+xml"/>
+    <item href="chapter3-1.html" id="chapter-3-1" media-type="application/xhtml+xml"/>
+    <item href="chapter3-2.html" id="chapter-3-2" media-type="application/xhtml+xml"/>
+    <item href="chapter3-3.html" id="chapter-3-3" media-type="application/xhtml+xml"/>
+    <item href="chapter3-4.html" id="chapter-3-4" media-type="application/xhtml+xml"/>
+    <item href="chapter3-5.html" id="chapter-3-5" media-type="application/xhtml+xml"/>
+    <item href="chapter3-6.html" id="chapter-3-6" media-type="application/xhtml+xml"/>
+    <item href="chapter3-7.html" id="chapter-3-7" media-type="application/xhtml+xml"/>
+    <item href="chapter3-8.html" id="chapter-3-8" media-type="application/xhtml+xml"/>
+    <item href="chapter3-9.html" id="chapter-3-9" media-type="application/xhtml+xml"/>
+    <item href="chapter3-10.html" id="chapter-3-10" media-type="application/xhtml+xml"/>
+    <item href="chapter3-11.html" id="chapter-3-11" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="chapter-1-1"/>
+    <itemref idref="chapter-1-2"/>
+    <itemref idref="chapter-1-3"/>
+    <itemref idref="chapter-1-4"/>
+    <itemref idref="chapter-1-5"/>
+    <itemref idref="chapter-1-6"/>
+    <itemref idref="chapter-2-1"/>
+    <itemref idref="chapter-2-2"/>
+    <itemref idref="chapter-2-3"/>
+    <itemref idref="chapter-2-4"/>
+    <itemref idref="chapter-2-5"/>
+    <itemref idref="chapter-2-6"/>
+    <itemref idref="chapter-2-7"/>
+    <itemref idref="chapter-3-1"/>
+    <itemref idref="chapter-3-2"/>
+    <itemref idref="chapter-3-3"/>
+    <itemref idref="chapter-3-4"/>
+    <itemref idref="chapter-3-5"/>
+    <itemref idref="chapter-3-6"/>
+    <itemref idref="chapter-3-7"/>
+    <itemref idref="chapter-3-8"/>
+    <itemref idref="chapter-3-9"/>
+    <itemref idref="chapter-3-10"/>
+    <itemref idref="chapter-3-11"/>
+  </spine>
+</package>
