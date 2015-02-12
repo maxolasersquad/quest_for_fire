@@ -59,43 +59,43 @@
       <content src="chapter2-1.html"/>
       <navPoint class="h2" id="chapter-2-1">
         <navLabel>
-          <text>Chapter 1: Les cendres</text>
+          <text>Chapter 1: The Ashes</text>
         </navLabel>
         <content src="chapter2-1.html"/>
       </navPoint>
       <navPoint class="h2" id="chapter-2-2">
         <navLabel>
-          <text>Chapter 2: L’affût devant le Feu</text>
+          <text>Chapter 2: The Sighting Before the Fire</text>
         </navLabel>
         <content src="chapter2-2.html"/>
       </navPoint>
       <navPoint class="h2" id="chapter-2-3">
         <navLabel>
-          <text>Chapter 3 Sur les rives du Grand-Fleuve</text>
+          <text>Chapter 3 On the Banks of the Grand River</text>
         </navLabel>
         <content src="chapter2-3.html"/>
       </navPoint>
       <navPoint class="h2" id="chapter-2-4">
         <navLabel>
-          <text>Chapter 4: L’alliance entre l’homme et le mammouth</text>
+          <text>Chapter 4: The Alliance Between Man and Mammoth</text>
         </navLabel>
         <content src="chapter2-4.html"/>
       </navPoint>
       <navPoint class="h2" id="chapter-2-5">
         <navLabel>
-          <text>Chapter 5: Pour le Feu</text>
+          <text>Chapter 5: For Fire</text>
         </navLabel>
         <content src="chapter2-5.html"/>
       </navPoint>
       <navPoint class="h2" id="chapter-2-6">
         <navLabel>
-          <text>Chapter 6: La recherche de Gaw</text>
+          <text>Chapter 6: Gaw's Research</text>
         </navLabel>
         <content src="chapter2-6.html"/>
       </navPoint>
       <navPoint class="h2" id="chapter-2-7">
         <navLabel>
-          <text>Chapter 7: La vie chez les mammouths</text>
+          <text>Chapter 7: Life Amongst the Mammoths</text>
         </navLabel>
         <content src="chapter2-7.html"/>
       </navPoint>
@@ -107,67 +107,67 @@
       <content src="chapter3-1.html"/>
       <navPoint class="h2" id="chapter-3-1">
         <navLabel>
-          <text>Chapter 1: Les Nains-Rouges</text>
+          <text>Chapter 1: The Red Dwarfs</text>
         </navLabel>
         <content src="chapter3-1.html"/>
       </navPoint>
       <navPoint class="h2" id="chapter-3-2">
         <navLabel>
-          <text>Chapter 2: L’arête granitique</text>
+          <text>Chapter 2: The Granite Edge</text>
         </navLabel>
         <content src="chapter3-2.html"/>
       </navPoint>
       <navPoint class="h2" id="chapter-3-3">
         <navLabel>
-          <text>Chapter 3: La nuit sur le marécage</text>
+          <text>Chapter 3: The Night on the Swamp</text>
         </navLabel>
         <content src="chapter3-3.html"/>
       </navPoint>
       <navPoint class="h2" id="chapter-3-4">
         <navLabel>
-          <text>Chapter 4: Le combat parmi les saules</text>
+          <text>Chapter 4: The Batle Among the Willows</text>
         </navLabel>
         <content src="chapter3-4.html"/>
       </navPoint>
       <navPoint class="h2" id="chapter-3-5">
         <navLabel>
-          <text>Chapter 5: Les hommes qui meurent</text>
+          <text>Chapter 5: Men Who Die</text>
         </navLabel>
         <content src="chapter3-5.html"/>
       </navPoint>
       <navPoint class="h2" id="chapter-3-6">
         <navLabel>
-          <text>Chapter 6: Par le Pays des Eaux</text>
+          <text>Chapter 6: Through the Water Village</text>
         </navLabel>
         <content src="chapter3-6.html"/>
       </navPoint>
       <navPoint class="h2" id="chapter-3-7">
         <navLabel>
-          <text>Chapter 7: Les Hommes-au-Poil-Bleu</text>
+          <text>Chapter 7: Blue-Haired-Men</text>
         </navLabel>
         <content src="chapter3-7.html"/>
       </navPoint>
       <navPoint class="h2" id="chapter-3-8">
         <navLabel>
-          <text>Chapter 8: L’ours géant est dans le défilé</text>
+          <text>Chapter 8: The Giant Bear is in the Parade</text>
         </navLabel>
         <content src="chapter3-8.html"/>
       </navPoint>
       <navPoint class="h2" id="chapter-3-9">
         <navLabel>
-          <text>Chapter 9: Le roc</text>
+          <text>Chapter 9: The Rock</text>
         </navLabel>
         <content src="chapter3-9.html"/>
       </navPoint>
       <navPoint class="h2" id="chapter-3-10">
         <navLabel>
-          <text>Chapter 10: Aghoo-le-Velu</text>
+          <text>Chapter 10: Aghoo-the-Hairy</text>
         </navLabel>
         <content src="chapter3-10.html"/>
       </navPoint>
       <navPoint class="h2" id="chapter-3-11">
         <navLabel>
-          <text>Chapter 11: Dans la nuit des âges</text>
+          <text>Chapter 11: During the Night of Ages</text>
         </navLabel>
         <content src="chapter3-11.html"/>
       </navPoint>
