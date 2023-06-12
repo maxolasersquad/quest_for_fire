@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fr">
+  <head>
+    <meta content="urn:isbn:978-0345300676" name="dtb:uid"/>
+  </head>
+  <docTitle>
+    <text>La Guerre du feu</text>
+  </docTitle>
+  <docAuthor>
+    <text>Joseph Henri Boex</text>
+  </docAuthor>
+  <navMap>
+    <navPoint class="h1" id="part-1">
+      <navLabel>
+        <text>Première partie.</text>
+      </navLabel>
+      <content src="chapter1-1.html"/>
+      <navPoint class="h2" id="chapter-1-1">
+        <navLabel>
+          <text>Chapitre 1: La mort du Feu</text>
+        </navLabel>
+        <content src="chapter1-1.html"/>
+      </navPoint>
+      <navPoint class="h2" id="chapter-1-2">
+        <navLabel>
+          <text>Chapter 2: The Mammoths and the Aurochs</text>
+        </navLabel>
+        <content src="chapter1-2.html"/>
+      </navPoint>
+      <navPoint class="h2" id="chapter-1-3">
+        <navLabel>
+          <text>Chapter 3: In the Cave</text>
+        </navLabel>
+        <content src="chapter1-3.html"/>
+      </navPoint>
+      <navPoint class="h2" id="chapter-1-4">
+        <navLabel>
+          <text>Chapter 4:The Giant Lion and the Tigress</text>
+        </navLabel>
+        <content src="chapter1-4.html"/>
+      </navPoint>
+      <navPoint class="h2" id="chapter-1-5">
+        <navLabel>
+          <text>Chapter 5: Chapter 5 Under the Boulders</text>
+        </navLabel>
+        <content src="chapter1-5.html"/>
+      </navPoint>
+      <navPoint class="h2" id="chapter-1-6">
+        <navLabel>
+          <text>Chapter 6: The Flight in the Night</text>
+        </navLabel>
+        <content src="chapter1-6.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="h1" id="part-2">
+      <navLabel>
+        <text>Part 2</text>
+      </navLabel>
+      <content src="chapter2-1.html"/>
+      <navPoint class="h2" id="chapter-2-1">
+        <navLabel>
+          <text>Chapter 1: The Ashes</text>
+        </navLabel>
+        <content src="chapter2-1.html"/>
+      </navPoint>
+      <navPoint class="h2" id="chapter-2-2">
+        <navLabel>
+          <text>Chapter 2: The Sighting Before the Fire</text>
+        </navLabel>
+        <content src="chapter2-2.html"/>
+      </navPoint>
+      <navPoint class="h2" id="chapter-2-3">
+        <navLabel>
+          <text>Chapter 3 On the Banks of the Grand River</text>
+        </navLabel>
+        <content src="chapter2-3.html"/>
+      </navPoint>
+      <navPoint class="h2" id="chapter-2-4">
+        <navLabel>
+          <text>Chapter 4: The Alliance Between Man and Mammoth</text>
+        </navLabel>
+        <content src="chapter2-4.html"/>
+      </navPoint>
+      <navPoint class="h2" id="chapter-2-5">
+        <navLabel>
+          <text>Chapter 5: For Fire</text>
+        </navLabel>
+        <content src="chapter2-5.html"/>
+      </navPoint>
+      <navPoint class="h2" id="chapter-2-6">
+        <navLabel>
+          <text>Chapter 6: Gaw's Research</text>
+        </navLabel>
+        <content src="chapter2-6.html"/>
+      </navPoint>
+      <navPoint class="h2" id="chapter-2-7">
+        <navLabel>
+          <text>Chapter 7: Life Amongst the Mammoths</text>
+        </navLabel>
+        <content src="chapter2-7.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="h1" id="part-3">
+      <navLabel>
+        <text>Part 3</text>
+      </navLabel>
+      <content src="chapter3-1.html"/>
+      <navPoint class="h2" id="chapter-3-1">
+        <navLabel>
+          <text>Chapter 1: The Red Dwarfs</text>
+        </navLabel>
+        <content src="chapter3-1.html"/>
+      </navPoint>
+      <navPoint class="h2" id="chapter-3-2">
+        <navLabel>
+          <text>Chapter 2: The Granite Edge</text>
+        </navLabel>
+        <content src="chapter3-2.html"/>
+      </navPoint>
+      <navPoint class="h2" id="chapter-3-3">
+        <navLabel>
+          <text>Chapter 3: The Night on the Swamp</text>
+        </navLabel>
+        <content src="chapter3-3.html"/>
+      </navPoint>
+      <navPoint class="h2" id="chapter-3-4">
+        <navLabel>
+          <text>Chapter 4: The Batle Among the Willows</text>
+        </navLabel>
+        <content src="chapter3-4.html"/>
+      </navPoint>
+      <navPoint class="h2" id="chapter-3-5">
+        <navLabel>
+          <text>Chapter 5: Men Who Die</text>
+        </navLabel>
+        <content src="chapter3-5.html"/>
+      </navPoint>
+      <navPoint class="h2" id="chapter-3-6">
+        <navLabel>
+          <text>Chapter 6: Through the Water Village</text>
+        </navLabel>
+        <content src="chapter3-6.html"/>
+      </navPoint>
+      <navPoint class="h2" id="chapter-3-7">
+        <navLabel>
+          <text>Chapter 7: Blue-Haired-Men</text>
+        </navLabel>
+        <content src="chapter3-7.html"/>
+      </navPoint>
+      <navPoint class="h2" id="chapter-3-8">
+        <navLabel>
+          <text>Chapter 8: The Giant Bear is in the Parade</text>
+        </navLabel>
+        <content src="chapter3-8.html"/>
+      </navPoint>
+      <navPoint class="h2" id="chapter-3-9">
+        <navLabel>
+          <text>Chapter 9: The Rock</text>
+        </navLabel>
+        <content src="chapter3-9.html"/>
+      </navPoint>
+      <navPoint class="h2" id="chapter-3-10">
+        <navLabel>
+          <text>Chapter 10: Aghoo-the-Hairy</text>
+        </navLabel>
+        <content src="chapter3-10.html"/>
+      </navPoint>
+      <navPoint class="h2" id="chapter-3-11">
+        <navLabel>
+          <text>Chapter 11: During the Night of Ages</text>
+        </navLabel>
+        <content src="chapter3-11.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

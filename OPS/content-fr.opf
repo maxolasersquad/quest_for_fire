@@ -1,0 +1,27 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator opf:role="aut" opf:file-as="Boex, Joseph Henri">Joseph Henri Boex</dc:creator>
+    <dc:title>La Guerre du feu</dc:title>
+    <dc:publisher>Pantheon Books</dc:publisher>
+    <dc:date opf:event="publication">1911</dc:date>
+    <dc:rights>Public Domain</dc:rights>
+    <dc:source>http://www.bouquineux.com/index.php?telecharger=2679&amp;Rosny_aine-La_Guerre_du_feu</dc:source>
+    <dc:identifier id="uid">urn:isbn:978-0345300676</dc:identifier>
+    <dc:language>fr</dc:language>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="cover.png" id="cover-img" media-type="image.png"/>
+    <item href="cover.html" id="cover" meda-type="application/xhtml+xml"/>
+    <item href="chapter1-1-fr.html" id="chapter-1-1" media-type="application/xhtml+xml"/>
+    <item href="toc-fr.ncx" id="ncx-fr" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover"/>
+    <itemref idref="chapter-1-1"/>
+  </spine>
+  <guide>
+    <reference href="cover.html" type="cover" title="Cover"/>
+  </guide>
+</package>
